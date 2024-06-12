@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFreedomshineanuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa/.vercel.app/apiFreedomshineanuraghazra&show_icons=true&theme=transparent)
 
 
 
