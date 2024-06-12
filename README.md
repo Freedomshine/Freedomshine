@@ -1,7 +1,8 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifreedomanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Hi there 👋 嗨， 你好 👋
 
+[![Freedomshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedomshine)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
