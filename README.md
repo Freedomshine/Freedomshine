@@ -1,6 +1,14 @@
 
 
-Hi there 👋 嗨， 你好 👋
+![image](https://github.com/Freedomshine/Freedomshine/assets/48897088/496ecf84-a80a-4c1e-af16-bc81f606fd8e)
+
+Hi there 👋 
+I'm a self-taught passionate  developer.
+I hope my code can help you.
+
+
+
+
 
 [![Freedomshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedomshine)](https://github.com/anuraghazra/github-readme-stats)
 
