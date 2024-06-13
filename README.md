@@ -7,10 +7,10 @@ Hi there 👋
 
 ![image](https://github.com/Freedomshine/Freedomshine/assets/48897088/496ecf84-a80a-4c1e-af16-bc81f606fd8e)
 
-
 [![Freedomshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedomshine)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freedomshine&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freedomshine&layout=compact&cache_seconds=1800)
+
 
 <!--
 **Freedomshine/Freedomshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
