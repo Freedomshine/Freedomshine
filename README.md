@@ -1,10 +1,12 @@
 
-
-![image](https://github.com/Freedomshine/Freedomshine/assets/48897088/496ecf84-a80a-4c1e-af16-bc81f606fd8e)
-
 Hi there 👋 
 I'm a self-taught passionate  developer.
 I hope my code can help you.
+
+![image](https://github.com/Freedomshine/Freedomshine/assets/48897088/496ecf84-a80a-4c1e-af16-bc81f606fd8e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freedomshine&layout=compact)
+
 
 
 
