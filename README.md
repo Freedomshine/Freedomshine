@@ -5,7 +5,7 @@ Hi there 👋
 
 😄I hope my code can be helpful to you.
 
-Life is different!！！！
+Life is different!！！！!
 
 ![image](https://github.com/Freedomshine/Freedomshine/assets/48897088/496ecf84-a80a-4c1e-af16-bc81f606fd8e)
 
