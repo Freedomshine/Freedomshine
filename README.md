@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Simon
 
-<!--
-**Freedomshine/Freedomshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Front-End Developer from Canada 🇨🇦
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React + Tailwind CSS projects
+- 🌱 Learning Vite, Zustand, and AI-enhanced dev tools
+- 💬 Ask me about React, CSS, Obsidian themes
+- 📫 Reach me: [simon@example.com](mailto:simon@example.com)
+- 🧭 Fun fact: I love minimalist design and Markdown!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+
+## 📊 GitHub Stats
+
+![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon123&show_icons=true&theme=default)
