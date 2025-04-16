@@ -37,5 +37,5 @@ A passionate Front-End Developer from Canada 🇨🇦
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freedomshine&show_icons=true&locale=en" alt="freedomshine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freedomshine&" alt="freedomshine" /></p>
+![](https://raw.githubusercontent.com/Freedomshine/ImageBed/main/20250325125145069.png)
 
