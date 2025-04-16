@@ -5,7 +5,7 @@ A passionate Front-End Developer from Canada 🇨🇦
 - 🔭 I’m currently working on React + Tailwind CSS projects
 - 🌱 Learning Vite, Zustand, and AI-enhanced dev tools
 - 💬 Ask me about React, CSS, Obsidian themes
-- 📫 Reach me: [simon@example.com](mailto:simon@example.com)
+- 📫 Reach me: 
 - 🧭 Fun fact: I love minimalist design and Markdown!
 
 ## 🛠️ Technologies
