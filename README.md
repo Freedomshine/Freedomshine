@@ -16,7 +16,7 @@ A passionate Front-End Developer from Canada 🇨🇦
 
 ## 📊 GitHub Stats
 
-![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon123&show_icons=true&theme=default)
+![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedomshine&show_icons=true&theme=default)
 
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
